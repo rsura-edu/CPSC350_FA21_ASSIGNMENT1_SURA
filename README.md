@@ -12,7 +12,8 @@ README for Assignment 0
 
 3)  Known compile or runtime errors: N/A
 
-4)  References: N/A
+4)  References:
+https://www.techiedelight.com/convert-char-to-string-cpp/
 
 5)  Instructions for running the assignment:
     make all

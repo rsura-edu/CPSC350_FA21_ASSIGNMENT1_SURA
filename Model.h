@@ -5,6 +5,6 @@ class Model{
     public:
         Model();
         ~Model();
-        string translateSingleCharacter(char single);
-        string translateDoubleCharacter(char double);
+        string translateSingleCharacter(char singleChar);
+        string translateDoubleCharacter(char doubleChar);
 };
